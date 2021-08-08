@@ -2,7 +2,7 @@
 
 
 --- 
-        title: "FIT3152 assignment 1 code" 
+        title: "LIWC_Social_network_analysis" 
         author: "Jason Ching Yuen Siu" 
         output: 
         word_document: default 
