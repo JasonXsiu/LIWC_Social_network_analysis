@@ -14,4 +14,4 @@ If you need more information, plese refer to http://liwc.wpengine.com/, with the
 1. Analyse activity and language on the forum over time
 2. Analyse the language used by groups
 3. Social network analysis (It is assumed that authors posting to the same thread at similar times, for example during the same month, as forming a social network. When these participants also post to other threads over the same period, their social network extends. )
-4. Reflection on my investigation
+4. Reflection on my investigation using the data science framework -- Cross Industry Standard Process for Data Mining (CRISP-DM)
